@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    align-items: center;
+    color: blue;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+
+img{
+    width: 80px;
+}
+.logo-text{
+    font-size: 30px;
+}
