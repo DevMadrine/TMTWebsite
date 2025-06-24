@@ -22,15 +22,14 @@
 /*  color: #535bf2;*/
 /*}*/
 
-/*body {*/
-/*  margin: 0;*/
-/*  display: flex;*/
-/*    background-color: grey;*/
-/*  !*place-items: center;*!*/
-/*    width: 100%;*/
-/*  !*min-width: 320px;*!*/
-/*  !*min-height: 100vh;*!*/
-/*}*/
+body {
+  margin-top: 0;
+  margin-left: 10px;
+  width: 30%;
+  height: 100vh;
+  border: 1px solid black;
+  overflow: hidden;
+}
 
 /*h1 {*/
 /*  font-size: 3.2em;*/
