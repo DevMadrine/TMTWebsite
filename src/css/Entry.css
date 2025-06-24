@@ -1,0 +1,28 @@
+.journal{
+    background-color: black;
+    width: 100%;
+    height: calc(100vh - 8vh);
+    flex-direction: row;
+}
+.journal .image-container{
+    display: flex;
+    width: 100%;
+    background-color: pink;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.journal .image-container .container-image{
+    width: 35%;
+    height: 25vh;
+    margin-right: 2rem;
+ }
+.location{
+    width: 24px;
+    height: 24px;
+    margin-right: 1rem;
+}
+.location-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
